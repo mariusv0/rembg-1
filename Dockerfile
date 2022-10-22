@@ -28,4 +28,4 @@ RUN gdown https://drive.google.com/uc?id=15rKbQSXQzrKCQurUjZFg8HqzZad8bcyz -O ~/
 
 EXPOSE 5000
 ENTRYPOINT ["rembg"]
-CMD ["--help"]
+CMD ["s"]
